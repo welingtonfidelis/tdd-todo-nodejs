@@ -6,7 +6,7 @@ Projeto construído durante um curso de TDD com Node.js, Jest e MongoDB (Udemy N
 - [MongoDB] - Instância do banco de dados MongoDB;
 
 ## Instalação
-Após clonar este projeto, execute *npm install* para instalas as dependências e em seguida, *npm start* para que o projeto seja executado na porta **3001**.
+Após clonar este projeto, crie um arquivo *.env* na raíz do projeto seguindo o exemplo do arquivo *.env.example*. Em seguida, execute o comando *npm install* para instalas as dependências e depois, *npm start* para que o projeto seja executado na porta **3001**.
 
 ## Testes
 É possível executar uma rotina de testes no projeto, construídos com [Jest] através do comando *npm test*. Após executar o comando, aguarde até que todos os testes unitários e de integração sejam finalizados.
